@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ![](./assets/banner.png)
 
 **PokéMare** is a Discord Bot based on the Pokémon anime.
